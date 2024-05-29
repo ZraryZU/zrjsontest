@@ -1,0 +1,21 @@
+{
+    "code": "0",
+    "rows": [
+        {
+            "onlineCount": 44,
+            "timeSpan": "MONTHS",
+            "ingestTime": "2023-09-10",
+            "totalDeviceCount": 11823,
+            "failureCount": 53
+        },
+        {
+            "onlineCount": 33,
+            "timeSpan": "MONTHS",
+            "ingestTime": "2023-08-25",
+            "totalDeviceCount": 200,
+            "failureCount": 11
+        }
+    ],
+    "success": true,
+    "total": 2
+}
